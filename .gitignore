@@ -1,0 +1,12 @@
+# Python 虚拟环境
+.venv/
+
+# PyCharm 本地配置
+.idea/
+
+# Python 自动生成的缓存
+__pycache__/
+*.pyc
+
+# 下载的数据集和运行中生成的图片
+data/
